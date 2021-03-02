@@ -1,6 +1,7 @@
 ######## INTERACTIVE WEB APPLICATION 
 ![tela_inicial](https://user-images.githubusercontent.com/45177600/109577274-1a6df000-7ad4-11eb-9546-823481d53de2.png)
 
+![game_over](https://user-images.githubusercontent.com/45177600/109577440-55702380-7ad4-11eb-9a43-c98bdc84f8a0.png)
 
 developed with html, css and javascript.
 
@@ -10,5 +11,4 @@ developed with html, css and javascript.
 
 
 
-by: anax4
-*************************************** ENJOY THE GAME ***************************************
+

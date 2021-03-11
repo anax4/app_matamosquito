@@ -11,10 +11,11 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="estilo.css" />
+    <script src="jogo.js"></script>
 
     <script>
       function iniciarJogo() {
-        var nivel = document.getElementById('nivel').value;
+        let nivel = document.getElementById('nivel').value;
 
         if (nivel === '') {
           alert('Selecione um nível para iniciar o jogo');
